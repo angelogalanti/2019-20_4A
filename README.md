@@ -7,9 +7,13 @@ Repository di Informatica della classe 4A
 - [concetti fondamentali dell'informatica](http://aptiva.v2.cs.unibo.it/wiki/index.php/Concetti_fondamentali_dell%27Informatica)
 
 ## Gruppi presentazioni
-- VR: dilillo galli mandurino guarini 
-- COPYRIGHT: ovelli benzi francolini fazzardi 
-- BITCOIN: berbeci memeti banci giovannini 
-- SELF DRIVING CAR: casu nicolini signorini
-- ?: tonini ugolini de luigi babini 
-- ?: monti marcolini pierini 
+settimana dal 7 al 13
+- SELF DRIVING CAR: casu nicolini signorini tonini
+- INTELLIGENZA ARTIFICIALE: monti marcolini pierini
+- VR: dilillo galli mandurino guarini
+
+settimana dal 14 al 20
+- COPYRIGHT: ovelli benzi francolini fazzardi
+- BITCOIN: berbeci memeti banci giovannini
+- PIRATERIA: ugolini de luigi babini
+
