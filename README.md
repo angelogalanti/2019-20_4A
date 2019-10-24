@@ -19,3 +19,10 @@ settimana dal 14 al 20
 
 [//]: # (This may be the most platform independent comment)
 
+## Crittologia
+- [Crittologia](https://it.wikipedia.org/wiki/Crittologia)
+- [Crittografia](https://it.wikipedia.org/wiki/Crittografia)
+- [Crittografia_simmetrica](https://it.wikipedia.org/wiki/Crittografia_simmetrica)
+- [Cifrario_di_Cesare](https://it.wikipedia.org/wiki/Cifrario_di_Cesare)
+- [Crittografia_asimmetrica](https://it.wikipedia.org/wiki/Crittografia_asimmetrica)
+- [Analisi_delle_frequenze](https://it.wikipedia.org/wiki/Analisi_delle_frequenze)
