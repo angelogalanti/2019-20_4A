@@ -26,3 +26,19 @@ settimana dal 14 al 20
 - [Cifrario_di_Cesare](https://it.wikipedia.org/wiki/Cifrario_di_Cesare)
 - [Crittografia_asimmetrica](https://it.wikipedia.org/wiki/Crittografia_asimmetrica)
 - [Analisi_delle_frequenze](https://it.wikipedia.org/wiki/Analisi_delle_frequenze)
+- [Differenze tra crittografia simmetrica ed asimmetrica](https://miro.medium.com/max/800/1*23RpkZuWAeSP7x0YdMtsdQ.png)
+
+## Firma Digitale
+- [Definizione di Firma Digitale](https://it.wikipedia.org/wiki/Firma_digitale)
+
+### Funzione di Hash
+- [Funzione di Hash](https://it.wikipedia.org/wiki/Funzione_di_Hash)
+- [Problema delle collisioni](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Hash_table_4_1_1_0_0_1_0_LL.svg/360px-Hash_table_4_1_1_0_0_1_0_LL.svg.png)
+
+
+### Funzionamento della firma digitale
+
+- [Funzionamento dal punto di vista tecnico](https://www.datalog.it/firma-digitale-come-funziona-dal-punto-di-vista-tecnico/)
+- [Differenti firme digitali](http://cdn.differencebetween.net/wp-content/uploads/2017/09/Difference-Between-Digital-Signature-and-Electronic-Signature.jpg)
+- [Certificato](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/PublicKeyCertificateDiagram_It.svg/langit-465px-PublicKeyCertificateDiagram_It.svg.png)
+- [Processo di firma e verifica di un documento](https://blog.mailfence.com/wp-content/uploads/2017/03/800px-Digital_Signature_diagram.png)
