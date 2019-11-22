@@ -42,3 +42,12 @@ settimana dal 14 al 20
 - [Differenti firme digitali](http://cdn.differencebetween.net/wp-content/uploads/2017/09/Difference-Between-Digital-Signature-and-Electronic-Signature.jpg)
 - [Certificato](https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/PublicKeyCertificateDiagram_It.svg/langit-465px-PublicKeyCertificateDiagram_It.svg.png)
 - [Processo di firma e verifica di un documento](https://blog.mailfence.com/wp-content/uploads/2017/03/800px-Digital_Signature_diagram.png)
+
+
+## SPID
+- [sito](https://www.spid.gov.it/)
+- [presentazione](https://www.spid.gov.it/assets/res/SPID-SistemaPubblicoIdentitaDigitale.pdf)
+- [servizi](https://www.spid.gov.it/servizi)
+- [avanzamento](https://avanzamentodigitale.italia.it/it/progetto/spid)
+- [faq](https://www.spid.gov.it/domande-frequenti)
+- [articolo](https://www.agendadigitale.eu/cittadinanza-digitale/a-che-punto-e-il-sistema-pubblico-dell-identita-digitale-e-a-che-serve/)
