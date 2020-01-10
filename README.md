@@ -1,6 +1,9 @@
 # 2019-20_4A
 Repository di Informatica della classe 4A
 
+## [Verifica 10/01/20](https://forms.gle/BTZDJ12ce8jr4Kwg6)
+
+
 ## [Link](https://script.google.com/macros/s/AKfycbx3Mn36N3G4CfGV-ju_NDdMtc9tr9-tkwm4Md-Xrei6GoYffiAs/exec) **per fare l'upload delle verifiche**
 
 ## Introduzione
