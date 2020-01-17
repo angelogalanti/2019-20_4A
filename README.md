@@ -57,4 +57,4 @@ settimana dal 14 al 20
 
 
 ## Rete internet e WWW
-- [pdf](./Rete Internet e Web.pdf)
+- [pdf](https://github.com/angelogalanti/2019-20_4A/blob/master/Rete%20Internet%20e%20Web.pdf)
