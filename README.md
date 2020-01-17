@@ -54,3 +54,7 @@ settimana dal 14 al 20
 - [avanzamento](https://avanzamentodigitale.italia.it/it/progetto/spid)
 - [faq](https://www.spid.gov.it/domande-frequenti)
 - [articolo](https://www.agendadigitale.eu/cittadinanza-digitale/a-che-punto-e-il-sistema-pubblico-dell-identita-digitale-e-a-che-serve/)
+
+
+## Rete internet e WWW
+- [pdf](./Rete Internet e Web.pdf)
