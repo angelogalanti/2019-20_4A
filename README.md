@@ -58,3 +58,8 @@ settimana dal 14 al 20
 
 ## Rete internet e WWW
 - [pdf](https://github.com/angelogalanti/2019-20_4A/blob/master/Rete%20Internet%20e%20Web.pdf)
+
+## Codici e codifiche
+- [codice](https://it.wikipedia.org/wiki/Codice_(teoria_dell%27informazione))
+- [esercizio](https://docs.google.com/document/d/1uWFaGt5MttKB9aiJiq93KOhUB8FX75neJXyg3G-fLZA/edit?usp=sharing)
+a
